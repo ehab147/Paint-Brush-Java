@@ -1,5 +1,6 @@
 Paint Brush Application
 
+
 A Java-based drawing application that provides various tools for creating and editing digital artwork.
 Features
     Drawing tools: Line, Rectangle, Oval, and Freehand pen
@@ -13,12 +14,14 @@ Features
 Project Structure
 
 Main Classes
+
 PaintBrush.java
     Main application class that initializes the GUI window
     Sets up the application frame with proper dimensions and properties
     Creates the main drawing panel
 
 Panel.java
+
     Core functionality class containing the drawing canvas and UI controls
     Manages drawing modes, tools, and user interactions
     Key methods:
