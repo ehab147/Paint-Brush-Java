@@ -1,5 +1,4 @@
 Paint Brush Application
-
 A Java-based drawing application that provides various tools for creating and editing digital artwork.
 Features
 
