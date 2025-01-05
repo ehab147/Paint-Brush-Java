@@ -1,6 +1,5 @@
 Paint Brush Application
 
-
 A Java-based drawing application that provides various tools for creating and editing digital artwork.
 Features
     Drawing tools: Line, Rectangle, Oval, and Freehand pen
@@ -16,6 +15,7 @@ Project Structure
 Main Classes
 
 PaintBrush.java
+
     Main application class that initializes the GUI window
     Sets up the application frame with proper dimensions and properties
     Creates the main drawing panel
@@ -74,13 +74,13 @@ Drawing Tools
     Pen Tool: Enables freehand drawing
     Eraser: Removes parts of the drawing
 
-Style Options
+ Style Options
 
     Dotted Line: Toggle between solid and dotted lines
     Fill: Toggle between outlined and filled shapes
     Color Picker: Choose custom colors for drawing
 
-Canvas Operations
+ Canvas Operations
 
     Undo: Remove the last drawn shape
     Clear: Reset the entire canvas
@@ -88,7 +88,6 @@ Canvas Operations
     Open: Import existing images for editing
 
 Technical Implementation
-
     Uses Java Swing for GUI components
     Implements double buffering for smooth drawing
     Utilizes Graphics2D for advanced drawing capabilities
